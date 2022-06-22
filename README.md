@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I live in South Korea, A novice developer who dreams of being a backend developer.
 
 <!--
 **jamyoung1/jamyoung1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
