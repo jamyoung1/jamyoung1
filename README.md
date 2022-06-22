@@ -8,4 +8,4 @@
 
 <h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
 
-<p align="center"><a href="https://hyezzizzi.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://wonjongah.tistory.com/"/></a>  <a href="mailto:dbsgpwl97@naver.com"><img src="https://img.shields.io/badge/Email-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a></p>
+<p align="center"><a href="https://junyoung1.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://wonjongah.tistory.com/"/></a>  <a href="mailto:min11600@naver.com"><img src="https://img.shields.io/badge/Email-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamyoung1160@gmail.com"/></a></p>
