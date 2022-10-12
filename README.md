@@ -10,6 +10,11 @@
   <a href="mailto:min11600@naver.com">
   <img src="https://img.shields.io/badge/Email-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamyoung1160@gmail.com"/>
   </a>
+  <a href="https://www.instagram.com/@junjunjunjun0">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://www.instagram.com/@junjunjunjun0/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 </p>
 
 
