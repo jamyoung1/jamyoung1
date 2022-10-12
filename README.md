@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?color=timeAuto$height=300&type=waving&&reversal=true&section=header&text=LeeJunYoung&fontSize=90&animation=fadeIn&rotate=-14)
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30$height=300&type=waving&&reversal=true&section=header&text=LeeJunYoung&fontSize=90&animation=fadeIn&rotate=-14)
 
 <h3>✋JUN✋</h3>
   <a href="https://junyoung1.tistory.com/">
