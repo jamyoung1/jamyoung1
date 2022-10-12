@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&reversal=true$color=timeAuto&height=300&section=header&text=LeeJunYoung&fontSize=90&animation=fadeIn&rotate=-14)
 
 <h3>🐽🐽</h3>
-<p>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjamyoung1%2Fhit-counter&count_bg=%236CF603&title_bg=%230C0B0B&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p>
   <a href="https://junyoung1.tistory.com/">
   <img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub   Sponsors&logoColor=white&link=https://wonjongah.tistory.com/"/></a>
   <a href="mailto:min11600@naver.com">
