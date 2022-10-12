@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=370&section=header&text=LeeJunYoung&font-Size=90)
+![header](https://capsule-render.vercel.app/api?type=wave&&reversal=truecolor=timeAuto&height=300&section=header&text=LeeJunYoung&fontSize=90&animation=fadeIn&rotate=-14)
 
 <h2 align="center"> Hi there 👋</h2>
 
@@ -11,3 +11,6 @@
 <h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
 
 <p align="center"><a href="https://junyoung1.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://wonjongah.tistory.com/"/></a>  <a href="mailto:min11600@naver.com"><img src="https://img.shields.io/badge/Email-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamyoung1160@gmail.com"/></a></p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamyoung1&langs_count=8)](https://github.com/jamyoung1/github-readme-stats)
