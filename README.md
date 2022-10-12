@@ -19,7 +19,7 @@
 <h3>📋Studying📋</h3>
 <p>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/JAVAScript-E34F26?style=flat-square&logo=JAVAScript&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/JAVAScript-A100FF?style=flat-square&logo=JAVAScript&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Spring-777BB4?style=flat-square&logo=Spring&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
