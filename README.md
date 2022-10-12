@@ -14,7 +14,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </p>
-
+<br/><br/><br/>
 
 <h3>📋Studying📋</h3>
 <p>
@@ -26,8 +26,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/OracleDB-47A248?style=flat-square&logo=OracleDB&logoColor=white"/></a>
 </p>
-<br/>
-<br/>
+<br/><br/><br/>
 
 <h3>🔨Tools🔨</h3>
 <p>
@@ -35,7 +34,7 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Eclipse-0B2C4A?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 </p>
-
+<br/><br/><br/>
 
 
 
