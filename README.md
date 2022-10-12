@@ -42,4 +42,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamyoung1&langs_count=8)](https://github.com/jamyoung1/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,3,10,50&height=200&section=footer)
