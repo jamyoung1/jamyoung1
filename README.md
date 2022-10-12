@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&&reversal=truecolor=timeAuto&height=300&section=header&text=LeeJunYoung&fontSize=90&animation=fadeIn&rotate=-14)
+<p align="center">![header](https://capsule-render.vercel.app/api?type=wave&&reversal=truecolor=timeAuto&height=300&section=header&text=LeeJunYoung&fontSize=90&animation=fadeIn&rotate=-14)</p>
 
 <h2 align="center"> Hi there 👋</h2>
 
