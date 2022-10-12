@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=390&section=header&text=LeeJunYoung&font-Size=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=370&section=header&text=LeeJunYoung&font-Size=90)
 
 <h2 align="center"> Hi there 👋</h2>
 
