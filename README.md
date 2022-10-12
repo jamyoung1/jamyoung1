@@ -28,9 +28,9 @@
 </p>
 
 <h3>🔨Tools🔨</h3>
-<img src="https://img.shields.io/badge/VisualStudioCode-#A100FF?style=flat-square&logo=JAVA&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/GitHub-#000000?style=flat-square&logo=JAVA&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Eclipse-#0B2C4A?style=flat-square&logo=JAVA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VisualStudioCode-A100FF?style=flat-square&logo=JAVA&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=JAVA&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Eclipse-0B2C4A?style=flat-square&logo=JAVA&logoColor=white"/></a>
 
 
 
