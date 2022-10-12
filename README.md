@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&reversal=true$color=timeAuto&height=300&section=header&text=LeeJunYoung&fontSize=90&animation=fadeIn&rotate=-14)
 
-<h3>🐽🐽</h3>
+<h3>✋JUN✋</h3>
   <a href="https://junyoung1.tistory.com/">
   <img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub   Sponsors&logoColor=white&link=https://wonjongah.tistory.com/"/></a>
   <a href="mailto:min11600@naver.com">
