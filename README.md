@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&&reversal=true$color=timeAuto&height=300&section=header&text=LeeJunYoung&fontSize=90&animation=fadeIn&rotate=-14)
+![header](https://capsule-render.vercel.app/api?type=waving&&reversal=true$color=auto&height=300&section=header&text=LeeJunYoung&fontSize=90&animation=fadeIn&rotate=-14)
 
 <h3>✋JUN✋</h3>
   <a href="https://junyoung1.tistory.com/">
@@ -42,4 +42,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamyoung1&langs_count=8)](https://github.com/jamyoung1/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
