@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-A100FF?style=flat-square&logo=Visual Studio&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Eclipse-0B2C4A?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/IntelliJ-0B2C4A?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 </p>
 <br/><br/><br/>
 
